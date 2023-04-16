@@ -1,0 +1,47 @@
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    height: 80vh;
+    flex-direction: column;
+}
+
+.home span{
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.home-container{
+    max-width: 700px;
+    width: 100%;
+    background-color:#DC143C;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    padding:1,5rem;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    color:white;
+
+}
+
+.home-btn{
+    width: 350px;
+    height: 50px;
+    font-size: 18px;
+    background-color:#B22222;
+    color:white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    
+
+}

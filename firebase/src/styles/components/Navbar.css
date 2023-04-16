@@ -1,0 +1,22 @@
+.navbar{
+    height: 50px;
+    background-color:#B22222;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+
+}
+
+.navbar .navbar-left{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+} 
+
+.navbar .navbar-right{
+    cursor: pointer;
+    
+} 
